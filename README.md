@@ -45,9 +45,10 @@ The Azure Data Factory pipeline consists of the following steps:
 ## Snapshots
 
 * **ADF Pipeline Snapshots**:*
-    * [LoadCustomerDim Pipeline](path/to/LoadCustomerDim.png)
-    * [LoadBookingsFact Pipeline](path/to/LoadBookingsFact.png)
-    * [AirBnBCDCPipeline](path/to/AirBnBCDCPipeline.png)
+    * [LoadCustomerDim Pipeline](snaps/AIRBNB-1.PNG)
+    * [LoadBookingsFact Pipeline](snaps/AIRBNB-2.PNG)
+    * ![Alt text](AIRBNB-3.PNG)
+    * [AirBnBCDCPipeline](snaps/AIRBNB-4.PNG)
 
 ## Deployment
 
@@ -67,14 +68,9 @@ To deploy this pipeline:
 1.  **Data Ingestion**: The pipeline will automatically ingest and process new AirBnB data based on the configured schedule.
 2.  **Data Analysis**: Use Azure Synapse Analytics to query and analyze the ingested data for insights and reporting.
 
-## Project Details
 
-For more detailed information about the project, refer to the `project-details.txt` file.
 
 ## Contributing
 
 Contributions to this project are welcome. Please submit a pull request with your changes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
