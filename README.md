@@ -45,10 +45,13 @@ The Azure Data Factory pipeline consists of the following steps:
 ## Snapshots
 
 * **ADF Pipeline Snapshots**:*
-    * [LoadCustomerDim Pipeline]
-      ![Alt text]((snaps/AIRBNB-1.PNG))
-    * ![Alt text](AIRBNB-3.PNG)
-    * [AirBnBCDCPipeline](snaps/AIRBNB-4.PNG)
+![Alt text](snaps/AIRBNB-1.PNG)
+
+![Alt text](snaps/AIRBNB-2.PNG)
+
+![Alt text](snaps/AIRBNB-3.PNG)
+
+![Alt text](snaps/AIRBNB-4.PNG)
 
 ## Deployment
 
